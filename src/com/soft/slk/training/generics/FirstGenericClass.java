@@ -7,7 +7,7 @@ public class FirstGenericClass<Test> {
 		this.test = test;
 	}
 	
-	public void showDetails() {
+	public void showDetails() { 
 		System.out.println(test.getClass().getName() +
                 " = " + test);
 //		showDetails(test);

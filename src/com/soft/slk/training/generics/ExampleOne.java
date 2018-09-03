@@ -12,7 +12,7 @@ public class ExampleOne {
 		genericClassExample.showDetails(10.115);
 		genericClassExample.showDetails(10.115f);
 		
-//		FirstGenericClass.showDetails(10);
+//		FirstGenericClass.showDetails(10); 
 //		FirstGenericClass.showDetails("Another Test");
 //		FirstGenericClass.showDetails(true);
 //		FirstGenericClass.showDetails(10.115);
